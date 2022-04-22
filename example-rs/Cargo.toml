@@ -9,4 +9,5 @@ publish = false
 
 [dependencies]
 anyhow = "1"
+plotly = "0.7"
 thiserror = "1"
